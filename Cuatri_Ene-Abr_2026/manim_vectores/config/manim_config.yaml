@@ -1,0 +1,26 @@
+# Configuración de colores y estilo minimalista
+colors:
+  background: "#000000"  # Fondo negro
+  vector_1: "#00FFFF"   # Cyan
+  vector_2: "#FF00FF"   # Magenta
+  vector_3: "#FFFF00"   # Amarillo
+  vector_result: "#00FF00"  # Verde
+  axes: "#666666"      # Gris medio
+  text: "#FFFFFF"      # Blanco
+  highlight: "#FF6B6B" # Rojo suave
+  
+style:
+  stroke_width: 4
+  font_size: 48
+  camera_quality: "high"
+  background_color: BLACK
+  
+animations:
+  duration: 2.0
+  fade_speed: 1.0
+  rotation_speed: 0.15
+  
+render:
+  quality: "medium"  # low, medium, high, 4k
+  fps: 30
+  format: "mp4"

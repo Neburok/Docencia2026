@@ -1,0 +1,84 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Mapa conceptual: Funciones vectoriales 2D y 3D</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  svg { background: #f9f9f9; }
+  .box { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 12; ry: 12; }
+  .title { font-size: 14px; font-weight: bold; fill: #1b5e20; }
+  .text { font-size: 12px; fill: #000; }
+  .arrow { stroke: #555; stroke-width: 2; marker-end: url(#arrowhead); }
+</style>
+</head>
+<body>
+<svg width="1100" height="800">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555" />
+    </marker>
+  </defs>
+
+  <!-- Nodo central -->
+  <rect x="430" y="40" width="240" height="60" class="box" />
+  <text x="550" y="75" text-anchor="middle" class="title">Funciones vectoriales 2D y 3D</text>
+
+  <!-- Definición -->
+  <rect x="80" y="160" width="260" height="80" class="box" />
+  <text x="210" y="185" text-anchor="middle" class="title">Definición</text>
+  <text x="210" y="205" text-anchor="middle" class="text">Asignan vectores a puntos</text>
+  <text x="210" y="220" text-anchor="middle" class="text">en ℝ² y ℝ³</text>
+
+  <!-- Interpretación geométrica -->
+  <rect x="420" y="160" width="260" height="80" class="box" />
+  <text x="550" y="185" text-anchor="middle" class="title">Interpretación geométrica</text>
+  <text x="550" y="205" text-anchor="middle" class="text">Campo de flechas</text>
+  <text x="550" y="220" text-anchor="middle" class="text">Trayectorias y flujo</text>
+
+  <!-- Operaciones -->
+  <rect x="760" y="160" width="260" height="80" class="box" />
+  <text x="890" y="185" text-anchor="middle" class="title">Operaciones</text>
+  <text x="890" y="205" text-anchor="middle" class="text">Suma · escalar · magnitud</text>
+  <text x="890" y="220" text-anchor="middle" class="text">Producto punto / cruz</text>
+
+  <!-- Operadores -->
+  <rect x="80" y="320" width="260" height="100" class="box" />
+  <text x="210" y="345" text-anchor="middle" class="title">Operadores diferenciales</text>
+  <text x="210" y="365" text-anchor="middle" class="text">Gradiente ∇f</text>
+  <text x="210" y="380" text-anchor="middle" class="text">Divergencia ∇·F</text>
+  <text x="210" y="395" text-anchor="middle" class="text">Rotacional ∇×F</text>
+
+  <!-- Integración -->
+  <rect x="420" y="320" width="260" height="100" class="box" />
+  <text x="550" y="345" text-anchor="middle" class="title">Integración</text>
+  <text x="550" y="365" text-anchor="middle" class="text">Integrales de línea</text>
+  <text x="550" y="380" text-anchor="middle" class="text">Superficie y volumen</text>
+
+  <!-- Teoremas -->
+  <rect x="760" y="320" width="260" height="100" class="box" />
+  <text x="890" y="345" text-anchor="middle" class="title">Teoremas</text>
+  <text x="890" y="365" text-anchor="middle" class="text">Green · Stokes</text>
+  <text x="890" y="380" text-anchor="middle" class="text">Divergencia (Gauss)</text>
+
+  <!-- Aplicaciones -->
+  <rect x="420" y="520" width="260" height="100" class="box" />
+  <text x="550" y="545" text-anchor="middle" class="title">Aplicaciones</text>
+  <text x="550" y="565" text-anchor="middle" class="text">Fluidos · EM</text>
+  <text x="550" y="580" text-anchor="middle" class="text">Transferencia de calor</text>
+
+  <!-- Flechas -->
+  <line x1="550" y1="100" x2="210" y2="160" class="arrow" />
+  <line x1="550" y1="100" x2="550" y2="160" class="arrow" />
+  <line x1="550" y1="100" x2="890" y2="160" class="arrow" />
+
+  <line x1="210" y1="240" x2="210" y2="320" class="arrow" />
+  <line x1="550" y1="240" x2="550" y2="320" class="arrow" />
+  <line x1="890" y1="240" x2="890" y2="320" class="arrow" />
+
+  <line x1="550" y1="420" x2="550" y2="520" class="arrow" />
+</svg>
+</body>
+</html>
+```

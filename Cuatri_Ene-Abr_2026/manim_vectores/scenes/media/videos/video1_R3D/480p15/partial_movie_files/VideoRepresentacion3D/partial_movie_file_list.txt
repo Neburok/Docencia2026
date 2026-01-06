@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/4102802897_1941909250_223132457.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/4160646025_4073845205_1585000667.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/4160646025_4073845205_4239031139.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/98241052_2068277886_2521793762.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/384093216_1753037551_2396089159.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/4109853442_2068277886_1867436629.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/3882969578_2989519766_1899742444.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/1850301039_2068277886_506879444.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/2523710786_3384501917_615791736.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/2987592922_3683879236_2055081476.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/2827206944_559387229_2580030411.mp4'
+file 'file:G:/Otros ordenadores/Mi portátil/Drive-win-rvh/RVH-UTEQ-2026/Cuatri_Ene-Abr_2026/manim_vectores/scenes/media/videos/video1_R3D/480p15/partial_movie_files/VideoRepresentacion3D/2827206944_4073845205_1321906516.mp4'
